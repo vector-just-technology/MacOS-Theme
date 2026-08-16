@@ -2,9 +2,13 @@
 __For Raspberry Pi's running Bookworm or newer__
 > [!WARNING]
 > You need an active cooler / any cooler to proceed!
-> >[!NOTE]
+
+> [!NOTE]
 > This only supports a RaspberryPi without a Monitor!
 
+__Have a RasberryPi with a monitor?__
+
+[Click here for the monitor version!](https://github.com/vector-just-technology/MacOS-Theme/tree/monitor-support)
 ### Installation Process
 ```
 # Copy and paste this whole block
