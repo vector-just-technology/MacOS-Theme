@@ -1,4 +1,4 @@
-# Contributing to [Project Name]
+# Contributing to Mac-OS Theme
 
 Thank you for your interest in contributing to our project! 🎉 We welcome all types of contributions, including bug reports, feature requests, documentation improvements, and code changes.
 
