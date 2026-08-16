@@ -5,6 +5,10 @@ __For Raspberry Pi's running Bookworm or newer__
 
 >[!NOTE]
 > This only supports a RaspberryPi with a monitor!
+
+__Have a RasberryPi with no monitor?__
+
+[Click here for the headless version!](https://github.com/vector-just-technology/MacOS-Theme/tree/Headless-support)
 ### Installation Process
 ```
 # Copy and paste this whole block
