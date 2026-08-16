@@ -2,6 +2,8 @@
 __For Raspberry Pi's running Bookworm or newer__
 > [!WARNING]
 > You need an active cooler / any cooler to proceed!
+> >[!NOTE]
+> This only supports a RaspberryPi without a Monitor!
 
 ### Installation Process
 ```
